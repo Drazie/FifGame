@@ -1,2 +1,2 @@
-<h1> Fifteen game with shuffler and solver by A*</h1>
+<h1> Empowered by A*</h1>
 
